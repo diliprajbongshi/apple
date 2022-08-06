@@ -9,6 +9,8 @@ function App() {
   return (
     <div className="App">
         <Hello name="dilip"  age="30"></Hello>
+        <Hello name="dilip"  age="70"></Hello>
+        <Hello name="dilip"  age="90"></Hello>
       
       <Welcome name="class one" ></Welcome>
       <Welcome name="class one" ></Welcome>
